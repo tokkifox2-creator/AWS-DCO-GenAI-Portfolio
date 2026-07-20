@@ -1,0 +1,5 @@
+Ticket ID,주요 현상,현재 서비스 상태,반복·지속 여부,영향 가능 범위,Ticket 상태,부족한 정보,우선순위,판단 근거
+EDU-TKT-2026-0201,Link Down 및 Link Flap 발생,일시적 연결 끊김 후 현재 사용 가능,Link Up 후 상태 변화(Link Flap) 재발,교육용 서버 2대,Open,정확한 발생 원인 미상,,
+EDU-TKT-2026-0202,PDU Feed A 입력 전압 경고,Feed B로 서비스 중단 없이 사용 중,전압 경고 지속 및 이중 전원 미복구,관련 교육용 서버 6대,Open (Escalated),Feed A 경고의 구체적 원인,,
+EDU-TKT-2026-0203,SSD Slot 2 예측 장애 경고,저장장치 미러 활성 상태로 사용 가능,경고 1회 발생 후 Monitoring 중,해당 서버 1대 내부 디스크,Monitoring,구체적인 교체 일정 미정,,
+EDU-TKT-2026-0204,Fan RPM 경고 수치 기록,온도 정상 범위 유지 및 서비스 정상,일시적 경고 발생 후 정상치로 회복,해당 스위치 장비 1대,Resolved,일시적 RPM 저하 원인 미상,,
